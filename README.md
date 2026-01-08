@@ -1,1 +1,3 @@
 # Cross-Asset-Market-Analysis
+
+This project analyzes historical price data across traditional equities and cryptocurrencies to explore cross-asset relationships, trends, and potential co-movement. Using the Tiingo API and public crypto datasets, the notebook cleans and structures the data, checks dimensionality and missing values, and performs exploratory data analysis to compare volatility, returns, and correlation patterns between stocks and digital assets. Visualizations, statistical summaries, and comparative metrics are used to highlight how these asset classes behave differently over time, with a focus on understanding their interactions in broader market conditions.
